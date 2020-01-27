@@ -1,1 +1,3 @@
-console.log("Hello World!")
+function countToTenLikeBadly() {
+  console.log("ten hey im done");
+}

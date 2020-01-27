@@ -1,3 +1,7 @@
-function countToTenLikeBadly() {
-  console.log("ten hey im done");
+
+function countToTen(){
+    for(var i = 0; i < 10; i++){
+        console.log(i);
+    }
+    console.log("ten hey im done");
 }

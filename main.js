@@ -1,5 +1,5 @@
-function countToTen(){
-    for(var j = 0; j < 10; j++){
-        console.log(j);
+function reverseIt(){
+    for(var i = 10; i > 0; i--){
+        console.log(i);
     }
 }

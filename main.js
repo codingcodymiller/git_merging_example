@@ -1,5 +1,5 @@
 function countdown(max){
-    for(var i = max; i > 0; i--){
+    for(var i = max; true; i--){
         console.log(i);
     }
 }

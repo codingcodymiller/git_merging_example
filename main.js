@@ -1,5 +1,5 @@
-function countDownFromTen(){
-    for(var i = 10; i > 0; i--){
+function countdown(max){
+    for(var i = max; i > 0; i--){
         console.log(i);
     }
 }

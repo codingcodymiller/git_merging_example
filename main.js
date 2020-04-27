@@ -1,5 +1,5 @@
-function unlimitedCountDown(){
-    for(var i = 10; true; i--){
+function countdown(max){
+    for(var i = max; true; i--){
         console.log(i);
     }
 }

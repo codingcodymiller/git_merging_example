@@ -3,7 +3,7 @@ function countdown(max){
         if(i >= 0){
             console.log(i);
         } else {
-            break;
+            return 'meow'
         }
     }
 }

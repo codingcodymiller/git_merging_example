@@ -3,7 +3,7 @@ function countdown(max){
         if(i >= 0){
             continue;
         } else {
-            return 'meow'
+            console.log('meow');
         }
     }
     return "countdown is done!";

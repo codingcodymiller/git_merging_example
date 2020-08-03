@@ -6,5 +6,5 @@ function countdown(max){
             console.log('meow');
         }
     }
-    return "countdown is done!";
+    return max + ' countdown'
 }

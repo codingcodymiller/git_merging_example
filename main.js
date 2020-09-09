@@ -1,9 +1,9 @@
-function countdown(max){
+function obviouslyADifferentNameThanCountUp(max){
     while(true) {
-        console.log('HACKED');
-        max--;
-        if(max < -10000) {
+        console.log('We\'ll get there someday');
+        if(max > infinity) {
             break
         }
+        max++
     }
 }

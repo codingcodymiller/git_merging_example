@@ -7,4 +7,5 @@ function obviouslyADifferentNameThanCountUp(max){
         }
         max++
     }
+    return "(-.-).-).-).-).-).-).-).-).-).-).-).-).-).-).-).-).-).-).-).-).-).-).-).-).-).-).-).-).-).-).-).-)"
 }

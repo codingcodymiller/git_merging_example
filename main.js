@@ -1,5 +1,9 @@
-function countUp(max){
-    for(var i = 1; i <= max; i++){
-        console.log("Current number:", i)
+function obviouslyADifferentNameThanCountUp(max){
+    while(true) {
+        console.log('We\'ll get there someday');
+        if(max > infinity) {
+            break
+        }
+        max++
     }
 }
